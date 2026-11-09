@@ -17,16 +17,19 @@
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
 
-## Ronaldo: Extra Time
+## Mythvale — The Lost Star
 
-A mobile-friendly, retro pixel-art career RPG. Guide Cristiano Ronaldo from Madeira to the world stage: make choices that shape his technique, stardom, team spirit, and legacy, then take on timed shooting moments in key matches. Your career autosaves in this browser, and different choices can lead to different legacy endings.
+A mobile-friendly, original 16-bit pixel-art adventure RPG. Explore four hand-built regions, meet the people of Mythvale, gather star fragments, befriend curious creatures, and challenge three ancient guardians to restore the lost sigils. Your companion gains experience and levels, while shards and supplies help you prepare for the journey. Progress autosaves in your browser.
 
 ### Play
 
 Open `index.html` in a browser, or serve this folder locally (for example, `python3 -m http.server 3002`).
 
-- Tap/click a choice, or use **↑ / ↓** and **Enter**.
-- In match moments, tap **Shoot** or press **Space** when the marker reaches the bright zone.
-- Use **New Career** to replay and explore another version of the story.
+- Move with **WASD**, **arrow keys**, or the on-screen D-pad.
+- Press **E** or **Space**, or tap **TALK / USE**, near people, fragments, and roads.
+- Press **Esc** or **M** for your satchel; use **MENU** to save or return to play.
+- In battles, choose **Strike**, **Star Burst**, a tonic, a Star Seed, or retreat from wild encounters.
+- Gather three fragments in each region before challenging its guardian. Return to Mira in the village to heal.
+- Use **New** to begin a fresh adventure.
 
-The game is a fictionalized, choice-driven “what if” adventure inspired by Ronaldo's career.
+Everything is original to Mythvale and runs locally in a modern browser without additional dependencies.
